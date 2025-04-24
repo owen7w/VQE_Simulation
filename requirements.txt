@@ -1,3 +1,10 @@
 pennylane
 pennylane-qchem
 numpy
+jax
+jaxlib
+optax
+matplotlib
+h5py
+aiohttp
+fsspec

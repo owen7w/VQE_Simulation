@@ -8,6 +8,9 @@ To explore how quantum simulation can be used in **drug discovery** by finding s
 
 ## 🛠️ How to Run
 
-```bash
+I am using python 3.9.13
+
+python -m venv .venv
+.\.venv\Scripts\activate
 pip install -r requirements.txt
 python h2_vqe_example.py
