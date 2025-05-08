@@ -10,7 +10,10 @@ To explore how quantum simulation can be used in **drug discovery** by finding s
 
 I am using python 3.9.13
 These steps might works
-python -m venv .venv    
+python -m venv .venv
+
 .\.venv\Scripts\activate # Or for Mac/Linux: source .venv/bin/activate
+
 pip install -r requirements.txt
+
 python h2_vqe_example.py
