@@ -10,7 +10,7 @@ To explore how quantum simulation can be used in **drug discovery** by finding s
 
 I am using python 3.9.13
 
-These steps might works
+These steps might work
 
 python -m venv .venv
 
